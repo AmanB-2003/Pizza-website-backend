@@ -1,0 +1,16 @@
+{
+  "name": "pizza-website-server",
+  "version": "1.0.0",
+  "description": "node server for pizza ordering website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Bains",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
